@@ -1,0 +1,6 @@
+redis:
+  maxId: 40
+  minId: 10
+  maxTotal: 70
+  ip: 127.0.0.1
+  port: 6379
